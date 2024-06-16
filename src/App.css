@@ -1,0 +1,12 @@
+.content{
+  display:flex;
+  flex-wrap: wrap;
+  
+}
+.navbar{
+  background-color: dimgray;
+}
+.bg{
+  background-image: url(http://prod-upp-image-read.ft.com/64b65952-cf55-11e5-831d-09f7778e7377);
+  background-repeat:cover;
+}
